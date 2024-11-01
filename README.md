@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jlassi-mohamed" alt="jlassi-mohamed" /></a> </p>
 
-- 🔭 I’m currently working on [StockManager](https://github.com/Jlassi-Mohamed/StockManager)
 
-- 📫 How to reach me **jlassi.mohamedhani@gmail.com**
+- 📫 How to reach me : **jlassi.mohamedhani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
